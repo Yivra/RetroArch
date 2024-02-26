@@ -57,6 +57,10 @@
 	<string>$(TARGET_DEVICE_IDENTIFIER)</string>
 	<key>NSCameraUsageDescription</key>
 	<string>YES</string>
+	<key>UIFileSharingEnabled</key>
+	<string>YES</string>
+	<key>LSSupportsOpeningDocumentsInPlace</key>
+	<string>YES</string>
 	<key>UIApplicationExitsOnSuspend</key>
 	<false/>
 	<key>UIFileSharingEnabled</key>
